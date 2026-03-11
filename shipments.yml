@@ -1,0 +1,8 @@
+build:
+  version: "1.0"
+
+shipments:
+  message: "this is the default environment for shipments microservice"
+  contactDetails:
+    name: "Mohamed Fathy - CEO xD"
+    email: "mofathy622000@gmail.com"

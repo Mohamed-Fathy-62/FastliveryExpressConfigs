@@ -1,0 +1,8 @@
+build:
+  version: "2.0"
+
+shipments:
+  message: "this is the prod environment for shipments microservice"
+  contactDetails:
+    name: "Mohamed Fathy - Backend Engineer"
+    email: "mofathy622000@gmail.com"

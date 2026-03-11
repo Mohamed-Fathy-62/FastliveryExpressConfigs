@@ -1,0 +1,8 @@
+build:
+  version: "1.0"
+
+users:
+  message: "this is the default environment for users microservice"
+  contactDetails:
+    name: "Mohamed Fathy - CEO xD"
+    email: "mofathy622000@gmail.com"
