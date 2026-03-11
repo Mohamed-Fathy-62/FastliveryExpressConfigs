@@ -1,0 +1,9 @@
+build:
+  version: "2.0"
+
+users:
+  message: "This is the prod env"
+  contacts:
+    name: "Mohamed Fathy - Backend Engineer"
+    email: "mofathy622000@gmail.com"
+
