@@ -1,0 +1,5 @@
+keycloak:
+  url: "http://localhost:9095"
+  realm: "fastlivery-express"
+  client-id: "fastlivery-express-user-service"
+  client-secret: "ZOgpbzbN1ML7IWrDHRTM1GFxdErx8bSS"
